@@ -1,0 +1,10 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/project1.png",
+            "title": "Project 1",
+            "description": "React, Node.js, MongoDB",
+            "url": "https://github.com/yourusername/project1"
+        }
+    ]
+}
