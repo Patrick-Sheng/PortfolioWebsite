@@ -42,7 +42,7 @@ const Layout = () => {
                         <a
                             target="_blank"
                             rel="noreferrer"
-                            href="https://github.com/yourusername"
+                            href="https://github.com/Patrick-Sheng"
                         >
                             <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
                         </a>
