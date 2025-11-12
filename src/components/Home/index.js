@@ -7,7 +7,7 @@ import Loader from 'react-loaders';
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate');
     const nameArray = ['P', 'a', 't', 'r', 'i', 'c', 'k'];
-    const jobArray = ['W', 'e', 'b', ' ', 'D', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r', '.'];
+    const jobArray = ['S', 'o', 'f', 't', 'w', 'a', 'r', 'e', ' ', 'D', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r', '.'];
 
     useEffect(() => {
         const timer = setTimeout(() => {
@@ -36,7 +36,7 @@ const Home = () => {
                         <AnimatedLetters
                             letterClass={letterClass}
                             strArray={jobArray}
-                            idx={22}
+                            idx={16}
                         />
                     </h1>
                     <h2>Full Stack Developer / Software Engineer</h2>

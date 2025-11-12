@@ -25,6 +25,7 @@ const About = () => {
                         />
                     </h1>
                     <p>
+                        I am a passionate software developer with experience in building web applications using modern technologies. I enjoy solving complex problems and continuously learning new skills to enhance my development expertise.
                     </p>
                 </div>
             </div>
